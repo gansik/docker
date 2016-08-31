@@ -1,8 +1,5 @@
-# docker
-Plays with docker
+# Plays with docker
 
-# Run:
+Run: `docker run -d -p 8080:80 gansik/docker:1`
 
-    ```docker run -d -p 8080:80 gansik/docker:1```
-
-... and go in browser - http://localhost:8080
+Check: [http://localhost:8080](http://localhost:8080)
